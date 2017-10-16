@@ -8,8 +8,9 @@
     "build": "babel src/ -d lib/",
     "lint": "eslint src/"
   },
-  "author": "Henning Morud <henning@morud.org>",
+  "author": "Nicholas Schell <nschell@gmail.com>",
   "contributors": [
+    "Henning Morud <henning@morud.org>",
     "Jesús Leganés Combarro <piranna@gmail.com>",
     "Sven Slootweg <admin@cryto.net>",
     "Andrew Phillips <theasp@gmail.com>",
