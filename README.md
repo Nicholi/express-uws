@@ -1,6 +1,6 @@
 # express-uws 
 
-[WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) endpoints for [Express](http://expressjs.com/) applications. Lets you define WebSocket endpoints like any other type of route, and applies regular Express middleware. The WebSocket support is implemented with the help of the [uws](https://github.com/uNetworking/uWebSockets) library.
+[WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) endpoints for [Express](http://expressjs.com/) applications. Lets you define WebSocket endpoints like any other type of route, and applies regular Express middleware. The WebSocket support is implemented with the help of the [uws](https://github.com/uNetworking/uWebSockets) library. Identical to `express-ws` in every way, except we are using uws for the underlying websocket implementation.
 
 ## Installation
 
